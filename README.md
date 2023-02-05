@@ -1,4 +1,4 @@
-# Wizard con la skin Artyc Horizon 2 y Palantir 2
+# Wizard - Artyc Horizon 2 y Palantir 2
 
 Incluye Luar, Limpiar Kodi, Live Sports y repositorios esenciales.
 
