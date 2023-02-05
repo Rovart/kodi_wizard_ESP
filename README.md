@@ -8,8 +8,6 @@ Para instalar el wizard añadir este repositorio en Kodi:
 
 https://rovart.github.io/kodi_wizard_ESP/
 
-Al preguntarse si desea salvar algún archivo darle directamente a OK. Versiones futuras no preguntará.
-
 > ⚠️ Advertencia: Por favor, tened en cuenta que este Wizard reune add-ons para Kodi de terceros y que bajo ningún modo me hago cargo del contenido que éstos puedan incluir. Úsalo bajo tu propia responsabilidad.
 
 ## Creditos
